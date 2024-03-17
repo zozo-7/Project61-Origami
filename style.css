@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+     background-color: rgb(170, 247, 179);
+
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#intro{
+    background-color: rgb(170, 247, 179);
+    padding: 10px;
+    font-size: 20px;
+}
+
+#origami1{
+   background-color:lightcoral;
+}
+
+
+#pagetitle {
+    font-size: 55px;
+    padding-top: 30px;
+    text-decoration: underline;
+}
+#line {
+    width: 2px;
+}
+.subheadings {
+    font-size: 40px;
+    padding: 20px;
+    font-family: serif;
+}
